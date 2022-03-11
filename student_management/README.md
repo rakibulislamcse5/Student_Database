@@ -3,7 +3,7 @@ Installation Process
 1. Clone GitHub repo for this project locally
 First open your terminal and run below this command or download zip
 
-git clone https://github.com/rakibulislamcse5/Student_Database.git
+git clone https://github.com/rakibulislamcse5/Student_Database/student_management.git
 Like this
 
 
