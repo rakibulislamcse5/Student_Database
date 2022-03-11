@@ -21,7 +21,7 @@ composer update
 .env files are not generally committed to source control for security reasons. But there is a .env.example which is a template of the .env file that the project expects us to have. So we will make a copy of the .env.example file and create a .env file that we can start to fill out to do things like database configuration in the next few steps.
 
 5. Create an database for our application
-Database Name inventory_management
+Database Name: student_management
 6. In the .env file, add database information to allow Laravel to connect to the database
 We will want to allow Laravel to connect to the database that you just created in the previous step. To do this, we must add the connection credentials in the .env file and Laravel will handle the connection from there.
 
